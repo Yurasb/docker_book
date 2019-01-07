@@ -1,6 +1,6 @@
 import unittest
 
-from app import identidock
+import identidock
 
 
 class TestCase(unittest.TestCase):
